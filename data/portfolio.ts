@@ -26,6 +26,6 @@ export const projects = [
 ];
 
 export const contact = {
-  github: "https://github.com/あなたのユーザー名",
-  email: "あなたのメールアドレス（任意）",
+  github: "https://github.com/ams-a-takakura",
+  email: "a.takakura.asm@gmail.com",
 };
